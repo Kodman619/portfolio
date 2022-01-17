@@ -111,7 +111,7 @@ hr{
 }
 .footer{
     background-color: rgb(109, 88, 78);
-    height: 150px;
+    height: auto;
 }
 .footer p{
     display: flex;
